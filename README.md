@@ -12,7 +12,7 @@ concepts into practice.
 
 If you haven't already, fork and clone this lab into your local environment.
 Navigate into its directory in the terminal, then run `code .` to open the files
-in Visual Studio Code.
+in Visual Studio Code. 
 
 ## Instructions
 
